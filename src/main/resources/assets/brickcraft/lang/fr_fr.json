@@ -980,5 +980,7 @@
   "brickcraft.v252.projections.removal_requested": "Demande de suppression envoyée au serveur.",
   "brickcraft.v252.confirm.ok": "Confirmer",
   "brickcraft.v252.confirm.cancel": "Annuler",
-  "brickcraft.v252.projections.item": "%s#%s · Pièces : %s · %s"
+  "brickcraft.v252.projections.item": "%s#%s · Pièces : %s · %s",
+  "brickcraft.world_edit.creative_only": "BrickCraft : la modification dans le monde est réservée au mode Créatif.",
+  "brickcraft.world_edit.connected": "BrickCraft : pièce nº %s connectée à la pièce nº %s par un tenon compatible."
 }

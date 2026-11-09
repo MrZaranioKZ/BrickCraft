@@ -980,5 +980,7 @@
   "brickcraft.v252.projections.removal_requested": "Removal request sent to server.",
   "brickcraft.v252.confirm.ok": "Confirm",
   "brickcraft.v252.confirm.cancel": "Cancel",
-  "brickcraft.v252.projections.item": "%s#%s · Parts: %s · %s"
+  "brickcraft.v252.projections.item": "%s#%s · Parts: %s · %s",
+  "brickcraft.world_edit.creative_only": "BrickCraft: La edición en el mundo solo está disponible en modo creativo.",
+  "brickcraft.world_edit.connected": "BrickCraft: Pieza n.º %s conectada a la pieza n.º %s mediante un tetón compatible."
 }

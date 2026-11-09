@@ -45,7 +45,7 @@ public final class PreciseWorldEditManager {
         return dx*dx+dy*dy+dz*dz<=16*16;
     }
     public static void receive(ServerPlayerEntity player,PreciseWorldEditPayload q){
-        if(!player.isCreative()||player.isSpectator()){error(player,"edition disponible en Creatif uniquement");return;}
+        if(!player.isCreative()||player.isSpectator()){player.sendMessage(Text.translatable("brickcraft.world_edit.creative_only"),true);return;}
         // Never allow a malformed client to flood serialized NBT/network updates.
         int tick=player.age;
         if(ticks.getOrDefault(player.getUuid(),-1)!=tick){ticks.put(player.getUuid(),tick);requests.put(player.getUuid(),0);}
@@ -101,8 +101,7 @@ public final class PreciseWorldEditManager {
         if(same(before,after))return;
         try{anchor.setModel(PreciseWorldModel.editKeepingOrigin(parts,model));}
         catch(IllegalArgumentException|IOException ex){error(player,"deplacement impossible : "+ex.getMessage());return;}
-        if(didSnap)player.sendMessage(Text.literal("BrickCraft : connecte piece #"+(q.index()+1)+
-                " sur #"+(mate+1)+" (tenon compatible)"),true);
+        if(didSnap)player.sendMessage(Text.translatable("brickcraft.world_edit.connected",q.index()+1,mate+1),true);
         Deque<Last> history=undo.computeIfAbsent(player.getUuid(),id->new ArrayDeque<>());
         history.addFirst(new Last(world.getRegistryKey().getValue().toString(),pos.toImmutable(),q.index(),before,after));
         while(history.size()>64)history.removeLast();

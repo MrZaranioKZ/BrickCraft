@@ -980,5 +980,7 @@
   "brickcraft.v252.projections.removal_requested": "Removal request sent to server.",
   "brickcraft.v252.confirm.ok": "Confirm",
   "brickcraft.v252.confirm.cancel": "Cancel",
-  "brickcraft.v252.projections.item": "%s#%s · Parts: %s · %s"
+  "brickcraft.v252.projections.item": "%s#%s · Parts: %s · %s",
+  "brickcraft.world_edit.creative_only": "BrickCraft：ワールド内での編集はクリエイティブモードでのみ可能です。",
+  "brickcraft.world_edit.connected": "BrickCraft：パーツ #%s を互換性のあるスタッドでパーツ #%s に接続しました。"
 }
