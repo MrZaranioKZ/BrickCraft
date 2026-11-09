@@ -1,0 +1,5 @@
+v1	named	intermediary
+FIELD	fr/brickcraft/mixin/MouseMixin	D	x	field_1795
+FIELD	fr/brickcraft/mixin/MouseMixin	D	y	field_1794
+FIELD	fr/brickcraft/mixin/MouseMixin	D	cursorDeltaX	field_1789
+FIELD	fr/brickcraft/mixin/MouseMixin	D	cursorDeltaY	field_1787
