@@ -1,0 +1,6 @@
+Page 1 — Présentation : poser des briques LEGO dans Minecraft.
+Page 2 — Build rapide : clic droit, rotation, palette rapide N.
+Page 3 — Studio : importer puis projeter.
+Page 4 — Pièces manquantes : remplacer / supprimer / rechercher.
+Page 5 — Commandes : /brickcraft place, /brickcraft ldraw, /brickcraft give.
+Page 6 — Physique & taille du joueur.
