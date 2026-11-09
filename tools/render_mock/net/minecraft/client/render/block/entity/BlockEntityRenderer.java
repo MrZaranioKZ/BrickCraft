@@ -1,0 +1,3 @@
+package net.minecraft.client.render.block.entity;
+import net.minecraft.client.render.VertexConsumerProvider;import net.minecraft.client.util.math.MatrixStack;
+public interface BlockEntityRenderer<T>{void render(T entity,float tickDelta,MatrixStack matrices,VertexConsumerProvider provider,int light,int overlay);default int getRenderDistance(){return 64;}default boolean rendersOutsideBoundingBox(T e){return false;}}

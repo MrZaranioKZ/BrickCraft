@@ -1,0 +1,1 @@
+package net.minecraft.client.util.math; public class MatrixStack { public static class Entry{} public Entry peek(){return new Entry();} public void push(){} public void pop(){} public void translate(double x,double y,double z){}public void multiply(Object rotation){} }

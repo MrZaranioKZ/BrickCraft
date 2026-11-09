@@ -1,0 +1,1 @@
+package net.minecraft.client.render; public class OverlayTexture { public static final int DEFAULT_UV=0;}
