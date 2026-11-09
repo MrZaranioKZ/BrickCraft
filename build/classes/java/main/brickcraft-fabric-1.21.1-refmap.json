@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "fr/brickcraft/mixin/MinecraftClientMixin": {
+      "doAttack": "Lnet/minecraft/class_310;method_1536()Z",
+      "doItemPick": "Lnet/minecraft/class_310;method_1511()V"
+    },
+    "fr/brickcraft/mixin/MouseMixin": {
+      "onCursorPos": "Lnet/minecraft/class_312;method_1600(JDD)V",
+      "onMouseButton": "Lnet/minecraft/class_312;method_1601(JIII)V",
+      "onMouseScroll": "Lnet/minecraft/class_312;method_1598(JDD)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "fr/brickcraft/mixin/MinecraftClientMixin": {
+        "doAttack": "Lnet/minecraft/class_310;method_1536()Z",
+        "doItemPick": "Lnet/minecraft/class_310;method_1511()V"
+      },
+      "fr/brickcraft/mixin/MouseMixin": {
+        "onCursorPos": "Lnet/minecraft/class_312;method_1600(JDD)V",
+        "onMouseButton": "Lnet/minecraft/class_312;method_1601(JIII)V",
+        "onMouseScroll": "Lnet/minecraft/class_312;method_1598(JDD)V"
+      }
+    }
+  }
+}

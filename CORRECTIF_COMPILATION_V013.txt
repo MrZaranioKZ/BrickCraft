@@ -1,0 +1,16 @@
+BrickCraft V0.13.0 — Correctif compilation Fabric 1.21.1
+
+Correction ligne 95 dans src/main/java/fr/brickcraft/world/PrecisePhysicsManager.java :
+- avant : new Job(world,anchor,player,existing, new long[0],false,0)
+- apres : new Job(world,anchor,player,existing,Map.of(),new long[0],false,0)
+
+Le record Job de V0.13.0 contient 8 champs. Le cas Physique OFF en fournissait 7.
+Map.of() est la map vide des masques de collisions, inutile pendant la suppression.
+
+La ligne V0.12.0 dans build_windows.ps1 et le nom de JAR attendu ont aussi ete corriges : il s'agissait de textes oublies dans le script, meme si gradle.properties contenait bien 0.13.0.
+
+A faire : extraire toutes les sources dans un nouveau dossier (ou remplacer les fichiers), puis CONSTRUIRE_WINDOWS.bat.
+Ne pas melanger V0.12.0 et V0.13.0. Sauvegarder le monde avant d'activer la nouvelle physique.
+
+Tests geometriques Java possibles avec TESTER_PHYSIQUE_V013_WINDOWS.bat.
+Compilation Fabric complete non effectuee dans cet environnement.

@@ -1,0 +1,37 @@
+/give @s brickcraft:builder_wand
+/time set day
+/gamerule doWeatherCycle false
+/gamerule doDaylightCycle false
+/time set noon
+/weather clear
+/gamerule doMobSpawning false
+/gamerule doMobLoot false
+/kill @e[type=!minecraft:player]
+/give @s brickcraft:builder_wand
+/reload
+/function brickpalette:test
+/function brickpalette:all
+/function brickpalette:labels_off
+/function brickpalette:remove
+/function brickpalette:labels_off
+/function brickpalette:remove
+/function brickpalette:test
+/function brickpalette:transparent
+/function brickpalette:remove
+/function brickpalette:all
+/function brickpalette:labels_off
+/function brickpalette:tour/start
+/function brickpalette:remove
+/tp 319 -53 342
+/tp 294 -53 342
+/tp é(ç -53 342
+/tp 259 -53 342
+/tp @p 294.5 -53 342.5
+/gamemode spectator
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/give @p brickcraft:ldraw_part
+/give @p guide_book
+/help
+/brickcraft help

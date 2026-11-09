@@ -1,0 +1,33 @@
+{
+  "version": "0.25.2-rc3",
+  "type": "static audit (NOT full client/server runtime testing)",
+  "java_sources": 107,
+  "languages": 11,
+  "en_us_keys": 982,
+  "fr_fr_keys": 982,
+  "named_v252_keys": 75,
+  "other_languages_english_identical": {
+    "ar_sa": 857,
+    "zh_tw": 860,
+    "hi_in": 857,
+    "de_de": 856,
+    "pt_br": 858,
+    "zh_cn": 858,
+    "ru_ru": 857,
+    "es_es": 856,
+    "ja_jp": 857
+  },
+  "remaining_text_candidates": 136,
+  "candidate_types": {
+    "legacy_translate": 35,
+    "server_literal": 19,
+    "literal_gui": 58,
+    "dynamic_status": 24
+  },
+  "blocking_key_errors": [],
+  "notes": [
+    "Identical strings can be product names or untranslated UI; do not equate key count with translation coverage.",
+    "All GUI states and network chat messages require testing inside Minecraft with FR and EN.",
+    "Report marks review candidates; not all matches are real defects."
+  ]
+}

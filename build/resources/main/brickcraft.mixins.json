@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "fr.brickcraft.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["MinecraftClientMixin","MouseMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

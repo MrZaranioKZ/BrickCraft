@@ -1,0 +1,33 @@
+{
+  "type": "static audit, not a Minecraft runtime or FPS certification",
+  "version": "0.25.0-rc1",
+  "java_sources": 107,
+  "screen_classes": 13,
+  "ui_button_source_occurrences": 154,
+  "resource_json": 46,
+  "png_assets": 32,
+  "item_models_expected": 29,
+  "item_models_missing": [],
+  "item_textures_missing": [],
+  "non_custom_item_texture_refs": [],
+  "pbr_material_atlas": {
+    "lego_materials": [
+      160,
+      16
+    ],
+    "lego_materials_n": [
+      160,
+      16
+    ],
+    "lego_materials_s": [
+      160,
+      16
+    ]
+  },
+  "language_files": 11,
+  "text_literal_occurrences_java": 72,
+  "ui_related_lines_estimate": 435,
+  "dynamic_text_candidates_estimate": 93,
+  "blocking_static_findings": [],
+  "regression_summary_path": "AUDIT_TESTS_V025.json"
+}

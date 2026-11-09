@@ -1,0 +1,472 @@
+﻿file,line,literal,key,en_value,fr_value,en_missing,fr_missing,dynamic_concat,english_is_original
+src/main/java/fr/brickcraft/BrickCreativeCatalog.java,25,BRICK_,brickcraft.ui.u7545945e,,,1,1,0,0
+src/main/java/fr/brickcraft/BrickCreativeCatalog.java,25,PLATE_,brickcraft.ui.u8cd17c29,,,1,1,0,0
+src/main/java/fr/brickcraft/BrickCreativeCatalog.java,25,TILE_,brickcraft.ui.u04c20b71,,,1,1,0,0
+src/main/java/fr/brickcraft/BrickCreativeCatalog.java,25,SLOPE_,brickcraft.ui.u91f65434,,,1,1,0,0
+src/main/java/fr/brickcraft/BrickPartStacks.java,22,LDraw ,brickcraft.ui.u85a3da70,LDraw ,LDraw ,0,0,1,1
+src/main/java/fr/brickcraft/ldraw/LDrawLibrary.java,77,Bibliotheque absente : place complete.zip dans config/brickcraft/,brickcraft.ui.uf5b9b699,LDraw library missing: place complete.zip in config/brickcraft/,Bibliothèque absente : place complete.zip dans config/brickcraft/,0,0,0,0
+src/main/java/fr/brickcraft/ldraw/LDrawLibrary.java,86,LDraw non installe : ,brickcraft.ui.u847bcb99,LDraw not installed: ,LDraw non installé : ,0,0,1,0
+src/main/java/fr/brickcraft/ldraw/LDrawLibrary.java,186,LDraw : ,brickcraft.ui.uac170596,LDraw : ,LDraw : ,0,0,1,1
+src/main/java/fr/brickcraft/ldraw/LDrawLibrary.java,186, fichiers indexés (,brickcraft.ui.u4075bc89, indexed files (, fichiers indexés (,0,0,1,0
+src/main/java/fr/brickcraft/ldraw/LDrawLibrary.java,189,Erreur LDraw : ,brickcraft.ui.u163587f9,LDraw error: ,Erreur LDraw : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,25,Telecharge les .dat depuis une source fiable puis recharge la bibliotheque.,brickcraft.ui.ueeee5517,"Get .dat files from a trusted source, then reload the library.",Telecharge les .dat depuis une source fiable puis recharge la bibliotheque.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,27,BrickCraft - Pieces manquantes,brickcraft.ui.ude40b9de,BrickCraft - Missing parts,BrickCraft - Pieces manquantes,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,36,Ouverture navigateur impossible : ,brickcraft.ui.ufead732e,Cannot open browser: ,Ouverture navigateur impossible : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,41,Rapport HTML et CSV crees dans imports/reports : ,brickcraft.ui.u4622dff6,Rapport HTML et CSV crees in imports/reports : ,Rapport HTML et CSV crees dans imports/reports : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,42,Rapport impossible : ,brickcraft.ui.uf665e0f3,Cannot create report: ,Rapport impossible : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,47,Dossier : ,brickcraft.ui.u53b264bb,Folder: ,Dossier : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,53,Pieces du .io installees : ,brickcraft.ui.u89ae92ae,Parts du .io installees : ,Pieces du .io installees : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,53, | ignorees/existantes : ,brickcraft.ui.u95578cbd, | ignorees/existantes : , | ignorees/existantes : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,53,. Reanalyse le projet.,brickcraft.ui.u9e5da74d,. Analyze the project again.,. Réanalyse le projet.,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,54,Pas de pieces jointes importables : ,brickcraft.ui.u43498314,Pas de parts jointes importables : ,Pas de pieces jointes importables : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,59,Bibliotheque rechargee : retour puis Analyser pour un bilan actualise. ,brickcraft.ui.u66dde22a,Bibliotheque rechargee : retour puis Analyser for un bilan actualise. ,Bibliotheque rechargee : retour puis Analyser pour un bilan actualise. ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,68, occurrences : ,brickcraft.ui.ua221a764, occurrences : , occurrences : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,68, -> ,brickcraft.ui.u000f3c6f,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,68,. Sauvegarde .bcpx dans Actions.,brickcraft.ui.uc093861b,. Save a .bcpx in Actions.,. Sauvegarde .bcpx dans Actions.,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,77,Aucune piece supprimee : rapport a actualiser.,brickcraft.ui.u720fa665,No parts removed: refresh report.,Aucune piece supprimee : rapport a actualiser.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,81, pieces supprimees (,brickcraft.ui.u4b747282, parts removed (, pieces supprimees (,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,81,). Sauvegarde une copie .bcpx dans Actions.,brickcraft.ui.u1858e810,). Save a .bcpx copy under Actions.,). Sauvegarde une copie .bcpx dans Actions.,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,85,Supprimer la reference ,brickcraft.ui.ua7a97161,Remove reference ,Supprimer la reference ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,90,Aucune piece manquante a supprimer.,brickcraft.ui.u84ae12c5,No missing parts to remove.,Aucune piece manquante a supprimer.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,93,Supprimer toutes les pieces manquantes ?,brickcraft.ui.ucb43b9d2,Remove all missing parts?,Supprimer toutes les pieces manquantes ?,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,127,BRICKCRAFT / PIECES MANQUANTES,brickcraft.ui.u52e2b580,BRICKCRAFT / MISSING PARTS,BRICKCRAFT / PIÈCES MANQUANTES,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,128,Manquantes : ,brickcraft.ui.u1ca4c12f,Manquantes : ,Manquantes : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,128," occurrences, ",brickcraft.ui.uc32a6196," occurrences, "," occurrences, ",0,0,1,1
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,128, references,brickcraft.ui.uef2302a8, references, references,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickMissingPartsScreen.java,137,Aucune reference manquante : projet pret a etre sauvegarde.,brickcraft.ui.ub245ea49,No missing references: project ready to save.,Aucune reference manquante : projet pret a etre sauvegarde.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,18,BrickCraft - Notices interactives,brickcraft.ui.ufa0f422a,BrickCraft - Interactive instructions,BrickCraft - Notices interactives,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,49,Projet indisponible,brickcraft.ui.ubc21246c,Project unavailable,Projet indisponible,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,54,Couches,brickcraft.ui.u9c4ac0bc,Layers,Couches,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,55,Etapes Studio,brickcraft.ui.u6ac2da2a,Studio steps,Etapes Studio,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,57,Lots de 20,brickcraft.ui.ue13953ff,Batches of 20,Lots de 20,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,58,Piece / piece,brickcraft.ui.u55d1086b,Part by part,Piece / piece,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,63,+10,brickcraft.ui.u0000a78a,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,66,Verifier pieces,brickcraft.ui.u52cd97af,Check parts,Verifier pieces,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,68,Confirmer (manuel),brickcraft.ui.uc3610672,Confirm (manual),Confirmer (manuel),0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,71,OFF,brickcraft.ui.u0001314f,OFF,DÉSACTIVÉ,0,0,0,1
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,74,< Materiaux,brickcraft.ui.u0ed36a44,< Materials,< Materiaux,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,75,Materiaux >,brickcraft.ui.ucab7bb46,Materials >,Materiaux >,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,77,Quitter le menu,brickcraft.ui.ud3b084d8,Close menu,Quitter le menu,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,78,Retirer la notice,brickcraft.ui.u8ece329a,Remove instructions,Retirer la notice,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,92,Place le .io original dans config/brickcraft/imports/,brickcraft.ui.ua412a82d,Place le .io original in config/brickcraft/imports/,Place le .io original dans config/brickcraft/imports/,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,109,BRICKCRAFT / NOTICE,brickcraft.ui.u7095086a,BRICKCRAFT / INSTRUCTIONS,BRICKCRAFT / NOTICE,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,112,Aucun projet visible : rapproche-toi du LEGO.,brickcraft.ui.u439b9219,No visible project: move closer to the LEGO model.,Aucun projet visible : rapproche-toi du LEGO.,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideScreen.java,129,--- Pieces pour cette etape ---,brickcraft.ui.u43338bdb,--- Parts for this step ---,--- Pieces pour cette etape ---,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,18,Recherche des projections chargees...,brickcraft.ui.u24e467dd,Searching loaded projections...,Recherche des projections chargees...,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,22,BrickCraft - Projections du monde,brickcraft.ui.ue53009ce,BrickCraft - World projections,BrickCraft - Projections du monde,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,45,[CHOISI] ,brickcraft.ui.u4ffd4313,[SELECTED] ,[CHOISI] ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,52,< Page,brickcraft.ui.u684b8c13,‹ Page,‹ Page,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,53,Page >,brickcraft.ui.u8e0aeb0d,Page ›,Page ›,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,55,Physique ON,brickcraft.ui.ufdae85d5,Physics ON,Physique ON,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,56,Physique OFF,brickcraft.ui.ub8223419,Physics OFF,Physique OFF,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,57,Retirer la projection selectionnee,brickcraft.ui.u4c2cdb31,Remove selected projection,Retirer la projection selectionnee,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,59,Taille/hitbox (U),brickcraft.ui.u3711f9ba,Size/hitbox (U),Taille/hitbox (U),0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,61,Actualiser,brickcraft.ui.u48078605,Refresh,Actualiser,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,62,Retour import,brickcraft.ui.u2e3cf23a,Back to import,Retour import,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,65,Ouvre un monde pour gerer ses projections.,brickcraft.ui.u621538cf,Open a world to manage projections.,Ouvre un monde pour gerer ses projections.,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,66,Recherche des ancres dans les chunks charges (192 blocs)...,brickcraft.ui.u25a524d6,Searching loaded chunks for anchors (192 blocks)...,Recherche des ancres dans les chunks charges (192 blocs)...,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,70,Selectionne une projection d'abord.,brickcraft.ui.u073f4791,Select a projection first.,Selectionne une projection d'abord.,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,74,Activer les collisions LEGO precises ?,brickcraft.ui.u7e9b9cb1,Enable precise LEGO collisions?,Activer les collisions LEGO precises ?,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,74,Retirer les collisions LEGO ?,brickcraft.ui.uc138f530,Remove LEGO collisions?,Retirer les collisions LEGO ?,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,75,Modification physique demandee au serveur...,brickcraft.ui.ua912bfeb,Physics change requested from server...,Modification physique demandee au serveur...,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,79,Selectionne une projection dans la liste.,brickcraft.ui.u43841b74,Select une projection in la liste.,Selectionne une projection dans la liste.,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,81,Retirer cette projection du monde ?,brickcraft.ui.u85928428,Remove this projection from the world?,Retirer cette projection du monde ?,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,83,Retrait demande au serveur...,brickcraft.ui.ud02f3b83,Removal requested from server...,Retrait demande au serveur...,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,99,BRICKCRAFT / PROJECTIONS,brickcraft.ui.uf4874192,BRICKCRAFT / PROJECTIONS,BRICKCRAFT / PROJECTIONS,0,0,0,1
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,101,Projections proches : ,brickcraft.ui.ua8537102,Nearby projections: ,Projections proches : ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,101, | page ,brickcraft.ui.ud89d52ad, | page , | page ,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseWorldProjectsScreen.java,104,Aucune projection chargee dans les 192 blocs autour de toi.,brickcraft.ui.u855482b3,No loaded projection within 192 blocks.,Aucune projection chargee dans les 192 blocs autour de toi.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,33,BrickCraft - catalogue LDraw,brickcraft.ui.ua20db3e5,BrickCraft - LDraw catalogue,BrickCraft - catalogue LDraw,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,47,"Recherche : nom, dimensions ou ID LDraw",brickcraft.ui.uf3ea2467,"Search: name, dimensions or LDraw ID","Recherche : nom, dimensions ou ID LDraw",0,0,0,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,57,Couleur : nom ou code,brickcraft.ui.u8e71f80c,Color: name or code,Couleur : nom ou code,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,64,Classiques,brickcraft.ui.u66102363,Classic,Classiques,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,65,LDraw,brickcraft.ui.u044f9bb0,LDraw,LDraw,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,68,< Page,brickcraft.ui.u684b8c13,‹ Page,‹ Page,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,69,Page >,brickcraft.ui.u8e0aeb0d,Page ›,Page ›,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,70,< Couleurs,brickcraft.ui.ub74f6cf8,< Colors,< Couleurs,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,71,Couleurs >,brickcraft.ui.ub6eef8b2,Colors >,Couleurs >,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,73,Y -,brickcraft.ui.u00015226,,,1,1,0,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,74,Y +,brickcraft.ui.u00015224,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,75,Pas,brickcraft.ui.u00013882,Step,Pas,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,76,X +,brickcraft.ui.u00014e63,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,77,Z +,brickcraft.ui.u000155e5,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,78,Reset rotation,brickcraft.ui.udd32274f,Reset rotation,Réinitialiser la rotation,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,79,Retour en jeu,brickcraft.ui.u27533538,Back to game,Retour au jeu,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,90,BRICKCRAFT | Catalogue de pieces,brickcraft.ui.udbcecc28,BRICKCRAFT | Part catalogue,BRICKCRAFT | Catalogue de pieces,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,136, X=,brickcraft.ui.u00008305,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickQuickScreen.java,136, Z=,brickcraft.ui.u00008343,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,88,BrickCraft Studio,brickcraft.ui.u5ac09ab7,BrickCraft Studio,Studio BrickCraft,0,0,0,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,97,Dernier atelier restaure : ,brickcraft.ui.u811aad00,Dernier atelier restaure : ,Dernier atelier restaure : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,97, pieces,brickcraft.ui.u61dd3b65, parts, pieces,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,99,Sauvegarde auto non chargee : ,brickcraft.ui.u564769fc,Could not load autosave: ,Sauvegarde auto non chargee : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,116,Importer,brickcraft.ui.ueaad8f32,Import,Importer,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,117,Sauver,brickcraft.ui.u93301a7c,Save,Sauver,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,120,Panneau,brickcraft.ui.u33ba3a28,Panel,Panneau,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,120,Vue max,brickcraft.ui.u929e5faa,Maximize view,Vue agrandie,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,125,Briques,brickcraft.ui.u6be0834b,Bricks,Briques,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,126,Couleurs,brickcraft.ui.ued8b0994,Colors,Couleurs,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,132,Catalogue LDraw - changer,brickcraft.ui.ucbf95b88,Switch LDraw catalogue,Catalogue LDraw - changer,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,132,Formes classiques - changer,brickcraft.ui.u8ae7b000,Switch classic shapes,Formes classiques - changer,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,133,Rechercher une piece,brickcraft.ui.uc1ad53d1,Search for a part,Rechercher une piece,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,158,LDraw : ,brickcraft.ui.uac170596,LDraw : ,LDraw : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,166,Piece : ,brickcraft.ui.udac749b8,Part : ,Piece : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,166, | clique pour poser,brickcraft.ui.u24e312d8, | click to place, | clique pour poser,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,171,Recharger LDraw,brickcraft.ui.ue1cbd1db,Reload LDraw,Recharger LDraw,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,176,BrickCraft : ,brickcraft.ui.ud77f9467,BrickCraft : ,BrickCraft : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,180,< Page,brickcraft.ui.u684b8c13,‹ Page,‹ Page,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,181,Page >,brickcraft.ui.u8e0aeb0d,Page ›,Page ›,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,188,Couleur : nom ou code LDraw,brickcraft.ui.uf4cd6e9c,Color: LDraw name or code,Couleur : nom ou code LDraw,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,198,< Page,brickcraft.ui.u684b8c13,‹ Page,‹ Page,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,199,Page >,brickcraft.ui.u8e0aeb0d,Page ›,Page ›,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,209,Y -,brickcraft.ui.u00015226,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,210,Y +,brickcraft.ui.u00015224,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,211,X -,brickcraft.ui.u00014e65,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,212,X +,brickcraft.ui.u00014e63,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,213,Z -,brickcraft.ui.u000155e7,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,214,Z +,brickcraft.ui.u000155e5,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,215,Reset 0°,brickcraft.ui.ueef78f11,Reset 0°,Remettre à 0°,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,216,Pas Y : ,brickcraft.ui.u47c3ad2b,Y step: ,Pas Y : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,216, deg,brickcraft.ui.u00100fe6, deg, deg,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,218,H -,brickcraft.ui.u00011255,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,219,H +,brickcraft.ui.u00011253,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,220,AUTO,brickcraft.ui.u001ed5af,AUTO,AUTO,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,220,MANUEL,brickcraft.ui.u871ddc42,MANUAL,MANUEL,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,222,Grille ,brickcraft.ui.u745d4399,Grid ,Grille ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,223,Cadrer,brickcraft.ui.u77dac739,Frame all,Cadrer,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,226,Charger,brickcraft.ui.u8f45cc1e,Load,Charger,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,227,Accroches,brickcraft.ui.u0f50af31,Connectors,Accroches,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,229,Guides d'accroche : ,brickcraft.ui.u687d9b38,Guides d'accroche : ,Guides d'accroche : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,232,Sauver,brickcraft.ui.u93301a7c,Save,Sauver,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,233,Importer,brickcraft.ui.ueaad8f32,Import,Importer,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,236,Confirmer VIDER,brickcraft.ui.uc22725cb,Confirm CLEAR,Confirmer VIDER,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,236,Vider atelier,brickcraft.ui.uabc012ba,Clear Studio,Vider atelier,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,247,Poser,brickcraft.ui.u049b89e1,Place,Poser,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,248,Bouger,brickcraft.ui.u76f2c8ac,Move,Bouger,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,257,Annuler,brickcraft.ui.u306f0ac5,Cancel,Annuler,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,257,Refaire,brickcraft.ui.ua3e37f4e,Redo,Rétablir,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,257,Copie,brickcraft.ui.u03e44d80,Copy,Copie,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,257,Stop,brickcraft.ui.u00277c22,Stop,Stop,0,0,0,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,257,Monde,brickcraft.ui.u0471306d,World,Monde,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,257,Quitter,brickcraft.ui.u8a7ddf52,Quit,Quitter,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,258,Annuler,brickcraft.ui.u306f0ac5,Cancel,Annuler,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,258,Retablir,brickcraft.ui.uf06cfef3,Redo,Retablir,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,258,Dupliquer,brickcraft.ui.ubf19136d,Duplicate,Dupliquer,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,258,Stop export,brickcraft.ui.u038d7572,Stop export,Stop export,0,0,0,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,258,Construire,brickcraft.ui.u6b8209d6,Build,Construire,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,258,Quitter,brickcraft.ui.u8a7ddf52,Quit,Quitter,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,353,Modification annulee,brickcraft.ui.u23a5b874,Change undone,Modification annulée,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,354,Rien a annuler,brickcraft.ui.ub09b8f46,Nothing to undo,Rien à annuler,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,357,Modification retablie,brickcraft.ui.u640c08aa,Change redone,Modification rétablie,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,358,Rien a retablir,brickcraft.ui.u75d10a92,Nothing to redo,Rien à rétablir,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,363,Selectionne d'abord une piece avec l'outil Bouger,brickcraft.ui.u239862dd,Select a part with the Move tool first,Selectionne d'abord une piece avec l'outil Bouger,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,373,Copie chargee : clique pour poser une autre piece,brickcraft.ui.u03e9bc54,Copy ready: click to place another part,Copie chargee : clique pour poser une autre piece,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,388,Rotation : ,brickcraft.ui.uda3bfee8,Rotation : ,Rotation : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,388, deg (pas : ,brickcraft.ui.u2cd61b52, deg (pas : , deg (pas : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,388, deg),brickcraft.ui.u01f1ed03, deg), deg),0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,396,Orientation : X=,brickcraft.ui.u2af040fb,Orientation : X=,Orientation : X=,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,396, Z=,brickcraft.ui.u00008343,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,402,Orientation : X=,brickcraft.ui.u2af040fb,Orientation : X=,Orientation : X=,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,402, Z=,brickcraft.ui.u00008343,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,409,Piece remise a 0°,brickcraft.ui.u732b036c,Part remise a 0°,Piece remise a 0°,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,409,Reset impossible : collision,brickcraft.ui.uc3d207d2,Cannot reset: collision,Reset impossible : collision,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,413,"Orientation reinitialisee a 0° sur X, Y et Z",brickcraft.ui.u7a408e00,"Orientation reinitialisee a 0° on X, Y et Z","Orientation reinitialisee a 0° sur X, Y et Z",0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,417,Selectionne d'abord une piece avec Bouger,brickcraft.ui.u101b2713,Select d'abord une part with Bouger,Selectionne d'abord une piece avec Bouger,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,419,Copie : ,brickcraft.ui.ue4d741c6,Copie : ,Copie : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,419, | Ctrl+V pour coller,brickcraft.ui.u3d6deed7, | Ctrl+V for coller, | Ctrl+V pour coller,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,422,Aucune piece copiee,brickcraft.ui.u50483b7a,No copied part,Aucune piece copiee,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,424,Piece collee (Ctrl+Z pour annuler),brickcraft.ui.uf6b27c08,Part collee (Ctrl+Z for annuler),Piece collee (Ctrl+Z pour annuler),0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,425,Impossible de coller ici : collision / bord,brickcraft.ui.ubd62d1a8,Cannot paste here: collision or boundary,Impossible de coller ici : collision / bord,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,429,Atelier deja vide,brickcraft.ui.u979c6158,Studio is already empty,Atelier deja vide,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,432,Attention : clique a nouveau sur Vider pour confirmer,brickcraft.ui.u75ef433a,Warning: click Clear again to confirm,Attention : clique a nouveau sur Vider pour confirmer,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,436,Atelier vide (Ctrl+Z pour annuler),brickcraft.ui.ua1ab6e22,Studio cleared (Ctrl+Z to undo),Atelier vide (Ctrl+Z pour annuler),0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,444,Annulation demandee. Le serveur retire les fragments poses.,brickcraft.ui.u208a3339,Cancellation requested. Server is removing placed fragments.,Annulation demandée. Le serveur retire les fragments posés.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,448,Tiens l'outil BrickCraft dans la main,brickcraft.ui.ue79b1ef2,Tiens l'outil BrickCraft in la main,Tiens l'outil BrickCraft dans la main,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,451,Export de grand projet disponible en Creatif uniquement,brickcraft.ui.u08a66040,Export de grand project disponible en Creatif uniquement,Export de grand projet disponible en Creatif uniquement,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,453,Vise le sol avant d'ouvrir le Studio,brickcraft.ui.uadb10a15,Aim at the ground before opening Studio,Vise le sol avant d’ouvrir le Studio,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,455,Ajoute une piece dans l'atelier,brickcraft.ui.ub3be8ae9,Add a part in the Studio,Ajoute une piece dans l'atelier,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,460,Une piece est trop grande ou en dehors du plateau,brickcraft.ui.u4885c66f,Une part est trop grande ou en dehors du plateau,Une piece est trop grande ou en dehors du plateau,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,471,Envoi de ,brickcraft.ui.ube942386,Envoi de ,Envoi de ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,471, pieces au serveur. Verification en cours...,brickcraft.ui.u7f05b163, parts au serveur. Verification en cours..., pieces au serveur. Verification en cours...,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,785,Vue cadree sur ,brickcraft.ui.u58673caa,Vue cadree on ,Vue cadree sur ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,785,le plateau,brickcraft.ui.u6cb39a23,le plateau,le plateau,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,785,les ,brickcraft.ui.u0032a146,les ,les ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,785, pieces,brickcraft.ui.u61dd3b65, parts, pieces,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,790,Impossible de reduire le plateau : des pieces seraient hors limites,brickcraft.ui.udd209c08,Cannot shrink the grid: some parts would fall outside,Impossible de reduire le plateau : des pieces seraient hors limites,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,793,Plateau ,brickcraft.ui.u739723b6,Plateau ,Plateau ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,793, x ,brickcraft.ui.u000086c8,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,793,. F : cadrer | milieu-glisser : deplacer la camera,brickcraft.ui.u24fc389c,. F: frame | middle drag: pan camera,. F : cadrer | clic molette maintenu : déplacer la caméra,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,798,Projet enregistre : config/brickcraft/studio_project.bcp (,brickcraft.ui.u75340b9c,Project enregistre : config/brickcraft/studio_project.bcp (,Projet enregistre : config/brickcraft/studio_project.bcp (,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,798, pieces),brickcraft.ui.ud9ca3164, parts), pieces),0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,799,Echec sauvegarde : ,brickcraft.ui.u0611958b,Echec save : ,Echec sauvegarde : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,808,Projet externe importe : ,brickcraft.ui.u45ed07d5,Project externe importe : ,Projet externe importe : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,808," pieces, grille ",brickcraft.ui.u3ddc2200," parts, grid "," pieces, grille ",0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,815,"Chargement refuse : piece manquante, collision ou limites",brickcraft.ui.u3da771f7,"Chargement rejected : part missing, collision ou limites","Chargement refuse : piece manquante, collision ou limites",0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,819,Projet charge : ,brickcraft.ui.u9a2b15de,Project loaded : ,Projet charge : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,819," pieces, ",brickcraft.ui.u5f7bfb99," parts, "," pieces, ",0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,820,Echec chargement : ,brickcraft.ui.u9eaeff5c,Echec chargement : ,Echec chargement : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1039,Piece recoloree : ,brickcraft.ui.ua70c83a8,Part recoloree : ,Piece recoloree : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1040,Couleur choisie : ,brickcraft.ui.ucf9d21d7,Color choisie : ,Couleur choisie : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1060,Piece effacee (Ctrl+Z pour annuler),brickcraft.ui.u3d293cff,Part effacee (Ctrl+Z for annuler),Piece effacee (Ctrl+Z pour annuler),0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1061,Clique une piece pour l'effacer,brickcraft.ui.u5b5bc17a,Click a part to erase it,Clique une piece pour l'effacer,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1066,Piece selectionnee : clique sa destination,brickcraft.ui.ue446e6a9,Part selected: click its destination,Piece selectionnee : clique sa destination,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1071,Selection annulee,brickcraft.ui.u60447424,Selection annulee,Selection annulee,0,0,0,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1075,Piece deplacee (Ctrl+Z pour annuler),brickcraft.ui.u0777d6bb,Part deplacee (Ctrl+Z for annuler),Piece deplacee (Ctrl+Z pour annuler),0,0,1,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1076,Deplacement impossible : collision ou bord,brickcraft.ui.uc8a88616,Cannot move: collision or boundary,Deplacement impossible : collision ou bord,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1119,Points d'accroche : ,brickcraft.ui.u195e8624,Points d'accroche : ,Points d'accroche : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1119,"visibles (turquoise=tenon, orange=cavite)",brickcraft.ui.ua9c04243,"visibles (turquoise=tenon, orange=cavite)","visibles (turquoise=tenon, orange=cavite)",0,0,1,1
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1125,Camera recentree,brickcraft.ui.ue559513c,Camera centered,Camera recentree,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickStudioScreen.java,1150,Piece effacee,brickcraft.ui.uf5442e55,Part effacee,Piece effacee,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,50,"Depose un fichier .io, .mpd ou .ldr dans le dossier imports.",brickcraft.ui.u62c7dca8,"Place an .io, .mpd or .ldr file in the imports folder.","Dépose un fichier .io, .mpd ou .ldr dans le dossier imports.",0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,90,Apercu Studio : ,brickcraft.ui.u7a58aa9e,Studio preview: ,Apercu Studio : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,90,GPU (VBO),brickcraft.ui.u5ec154fa,GPU (VBO),GPU (VBO),0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,90,CPU (secours),brickcraft.ui.u2fdca041,CPU (fallback),CPU (secours),0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,96,GPU : preparation des pieces... ,brickcraft.ui.u7f4c1468,GPU : preparation des parts... ,GPU : preparation des pieces... ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,107,GPU non disponible (upload) : ,brickcraft.ui.u00807b20,GPU unavailable (upload): ,GPU non disponible (upload) : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,107, | O : reessayer,brickcraft.ui.u75c404dc, | O : reessayer, | O : reessayer,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,115,GPU non disponible (affichage) : ,brickcraft.ui.u172b86ed,GPU unavailable (display): ,GPU non disponible (affichage) : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,115, | O : reessayer,brickcraft.ui.u75c404dc, | O : reessayer, | O : reessayer,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,116,GPU actif | ,brickcraft.ui.uebf0c4c9,GPU actif | ,GPU actif | ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,116, triangles | O : CPU,brickcraft.ui.u2755bf58, triangles | O : CPU, triangles | O : CPU,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,128,BrickCraft - Importer un projet BrickLink,brickcraft.ui.ufdd5b6f4,BrickCraft - Import a BrickLink project,BrickCraft - Importer un projet BrickLink,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,142,Lecture du dossier impossible : ,brickcraft.ui.ud826aa2f,Cannot read folder: ,Lecture du dossier impossible : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,149,Ouverture non disponible : ,brickcraft.ui.u31b2e6f1,Cannot open: ,Ouverture non disponible : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,153,"Dossier d'import ouvert. Depose tes .io, .mpd, .ldr ou .bcpx, puis actualise.",brickcraft.ui.uec052c5c,"Import folder opened. Add .io, .mpd, .ldr or .bcpx files, then refresh.","Dossier d'import ouvert. Depose tes .io, .mpd, .ldr ou .bcpx, puis actualise.",0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,155,Impossible d'ouvrir le dossier : ,brickcraft.ui.u0dc0e49b,Cannot open folder: ,Impossible d'ouvrir le dossier : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,164,"Dossier BrickCraft ouvert. Ajoute complete.zip ici, puis recharge LDraw.",brickcraft.ui.ubc820c80,"BrickCraft folder opened. Add complete.zip here, then reload LDraw.","Dossier BrickCraft ouvert. Ajoute complete.zip ici, puis recharge LDraw.",0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,165,Dossier BrickCraft : ,brickcraft.ui.ua40657b2,BrickCraft folder: ,Dossier BrickCraft : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,166,Impossible d'ouvrir le dossier BrickCraft : ,brickcraft.ui.u91b32bd2,Unable to open BrickCraft folder: ,Impossible d’ouvrir le dossier BrickCraft : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,177,Quitter sans enregistrer ?,brickcraft.ui.u10b05dc0,Quitter without enregistrer ?,Quitter sans enregistrer ?,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,182,Aucun projet charge : choisis un fichier puis Analyser.,brickcraft.ui.u7bea161f,No project loaded: select a file and click Analyze.,Aucun projet charge : choisis un fichier puis Analyser.,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,184,Projet decharge. Fichier et projections du monde conserves.,brickcraft.ui.ua5d8122a,Project unloaded. File and world projections kept.,Projet decharge. Fichier et projections du monde conserves.,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,194,Selection : ,brickcraft.ui.ua8b1665a,Selection: ,Selection : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,194, (non charge),brickcraft.ui.uc7da049a, (not loaded), (non charge),0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,196,Changer de projet ?,brickcraft.ui.u7392662c,Change project?,Changer de projet ?,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,201,Recharger le fichier ?,brickcraft.ui.u92bfcb9b,Reload le file ?,Recharger le fichier ?,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,208,Aucun fichier. Copie ton .io dans config/brickcraft/imports/,brickcraft.ui.ufd7ec481,No file. Copie ton .io in config/brickcraft/imports/,Aucun fichier. Copie ton .io dans config/brickcraft/imports/,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,216,Charge : ,brickcraft.ui.ud5020ff2,Loaded: ,Charge : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,216, | plafond : ,brickcraft.ui.uc7b72b66, | plafond : , | plafond : ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,223,Erreur d'analyse : ,brickcraft.ui.ud0685759,Error d'analyse : ,Erreur d'analyse : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,226,Charge d'abord un projet.,brickcraft.ui.u209c666a,Load a project first.,Charge d'abord un projet.,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,243,Remplace ,brickcraft.ui.uc507c4f3,Remplace ,Remplace ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,243, par ,brickcraft.ui.u01f753bf, par , par ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,243, : ,brickcraft.ui.u00007f46,,,1,1,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,243, pieces. Sauve la copie .bcpx (Actions).,brickcraft.ui.uc1c7580d, parts. Sauve la copie .bcpx (Actions)., pieces. Sauve la copie .bcpx (Actions).,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,274,Supprime : ,brickcraft.ui.u840c8095,Remove : ,Supprime : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,274, pieces / ,brickcraft.ui.u90034c6c, parts / , pieces / ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,285,Analyse d'abord un projet,brickcraft.ui.u240f0603,Analyze a project first,Analyse d'abord un projet,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,295,Sauvegarde precise (sans arrondi) : ,brickcraft.ui.u6a8c1e9b,Precise save (no rounding): ,Sauvegarde precise (sans arrondi) : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,297,BCPX : ,brickcraft.ui.u1a3fd09d,BCPX : ,BCPX : ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,302,GPU,brickcraft.ui.u0001148c,GPU,GPU,0,0,0,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,302,CPU,brickcraft.ui.u00010588,CPU,CPU,0,0,0,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,304,Camera recentree,brickcraft.ui.ue559513c,Camera centered,Camera recentree,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,315,Analyse d'abord le projet,brickcraft.ui.u46bc8b23,Analyze the project first,Analyse d'abord le projet,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,317,Studio grille limite a ,brickcraft.ui.ue229ed06,Studio grid limited to ,Studio grille limite a ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,317, pieces. Utilise 'Projeter dans le monde'.,brickcraft.ui.u527a94cd, parts. Use 'Project into world'., pieces. Utilise 'Projeter dans le monde'.,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,320,Import sans perte impossible : references manquantes ou rotations libres (voir rapport),brickcraft.ui.u54ff89fb,Lossless import unavailable: missing references or free rotations (see report),Import sans perte impossible : references manquantes ou rotations libres (voir rapport),0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,325,Conversion refusee : ,brickcraft.ui.uf58597ff,Conversion rejected: ,Conversion refusee : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,330,Le Studio refuse ce projet (limites ou collisions),brickcraft.ui.u0711b88e,Le Studio rejected ce project (limites ou collisions),Le Studio refuse ce projet (limites ou collisions),0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,331,Conversion echouee : ,brickcraft.ui.ufb08a2e0,Conversion failed: ,Conversion echouee : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,335,Analyse un projet avant de le projeter,brickcraft.ui.ud1b2dba9,Analyze a project before projecting it,Analyse un projet avant de le projeter,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,337,Projet vide : aucune piece a projeter apres le nettoyage.,brickcraft.ui.ufcac8797,Empty project: no parts remain after cleanup.,Projet vide : aucune piece a projeter apres le nettoyage.,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,339,Trop de pieces (,brickcraft.ui.u300f7d2b,Trop de parts (,Trop de pieces (,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,339,) pour le plafond choisi. Ouvre Capacites.,brickcraft.ui.u46edd1db,) for the selected limit. Open Limits.,) pour le plafond choisi. Ouvre Capacites.,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,342,Projection disponible uniquement en mode Creatif,brickcraft.ui.u676196eb,Projection disponible uniquement en mode Creatif,Projection disponible uniquement en mode Creatif,0,0,0,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,346,Vise un bloc au sol avant d'ouvrir le Studio,brickcraft.ui.ue26004df,Vise un bloc au sol avant d'ouvrir le Studio,Vise un bloc au sol avant d'ouvrir le Studio,0,0,0,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,350,Espace d'ancrage occupe : vise une surface avec de l'air au-dessus,brickcraft.ui.uf15d3d5f,Espace d'ancrage occupe : vise une surface with de l'air au-dessus,Espace d'ancrage occupe : vise une surface avec de l'air au-dessus,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,355,Chateau trop haut pour cet endroit,brickcraft.ui.u6d383057,Castle is too tall at this position,Chateau trop haut pour cet endroit,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,363,Projection envoyee : ,brickcraft.ui.u22ea6bc0,Projection envoyee : ,Projection envoyee : ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,363," pieces, ",brickcraft.ui.u5f7bfb99," parts, "," pieces, ",0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,365,Projection refusee : ,brickcraft.ui.u0952c526,Projection refusee : ,Projection refusee : ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,382,Editeur libre limite a ,brickcraft.ui.ubba74045,Free editor limited to ,Editeur libre limite a ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,382, pieces; utilise un sous-modele.,brickcraft.ui.u75df6915, parts; use a submodel., pieces; utilise un sous-modele.,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,392,Atelier libre : ,brickcraft.ui.u23b36812,Atelier free : ,Atelier libre : ,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,392, pieces (modifications non enregistrees),brickcraft.ui.uc6656ec0, parts (unsaved changes), pieces (modifications non enregistrees),0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,404,Projet,brickcraft.ui.u8efe38ec,Project,Projet,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,405,Visuel,brickcraft.ui.u98be73dc,Preview,Aperçu,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,406,Actions,brickcraft.ui.u1df8e0dd,Actions,Actions,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,410,< Fichier,brickcraft.ui.uebf4a16a,< File,< Fichier,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,411,Fichier >,brickcraft.ui.u5289e9ec,File >,Fichier >,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,412,Analyser / charger,brickcraft.ui.u1a6d18ec,Analyze / load,Analyser / charger,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,413,Dossier imports,brickcraft.ui.u4f4ed8f9,Imports folder,Dossier imports,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,414,Dossier LDraw,brickcraft.ui.ue5e7d9fb,LDraw folder,Dossier LDraw,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,415,Actualiser la liste,brickcraft.ui.uaa0628d7,Refresh list,Actualiser la liste,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,416,Liste des fichiers actualisee,brickcraft.ui.u68c8dd4c,File list refreshed,Liste des fichiers actualisée,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,417,Pieces manquantes / chercher,brickcraft.ui.ua7e02e23,Parts missing / chercher,Pieces manquantes / chercher,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,421,Points,brickcraft.ui.u8ed14903,Points,Points,0,0,0,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,422,Volumes,brickcraft.ui.u88ea9479,Volumes,Volumes,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,423,Maillage,brickcraft.ui.u0348476a,Mesh,Maillage,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,424,GPU (rapide),brickcraft.ui.uc4442a4c,GPU (fast),GPU (rapide),0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,424,CPU (secours),brickcraft.ui.u2fdca041,CPU (fallback),CPU (secours),0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,426,Recentrer la camera,brickcraft.ui.ude0ccf54,Recenter camera,Recentrer la caméra,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,430,Ouvrir l'editeur libre,brickcraft.ui.u510ea940,Open l'editeur free,Ouvrir l'editeur libre,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,435,Studio grille,brickcraft.ui.u77e64eb1,Grid Studio,Studio sur grille,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,436,Sauver .bcpx,brickcraft.ui.uaa0aa893,Save .bcpx,Sauver .bcpx,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,437,Projeter dans le monde,brickcraft.ui.uda14253d,Project into world,Projeter dans le monde,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,438,Projections,brickcraft.ui.u2b6e27e4,Projections,Projections,0,0,0,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,439,Decharger,brickcraft.ui.u8a11647d,Unload,Décharger,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,440,Capacites pieces / physique,brickcraft.ui.udee57763,Part / physics limits,Capacites pieces / physique,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,444,Retour au Studio,brickcraft.ui.uabaa0cad,Back to Studio,Retour au Studio,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,464,BRICKCRAFT  /  IMPORT & APERCU,brickcraft.ui.u0e77fa93,BRICKCRAFT  /  IMPORT & PREVIEW,BRICKCRAFT  /  IMPORT & APERÇU,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,476,PROJET SELECTIONNE,brickcraft.ui.u811ffacf,SELECTED PROJECT,PROJET SELECTIONNE,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,481,points (rapide),brickcraft.ui.u93ff53d5,points (fast),points (rapide),0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,481,GPU,brickcraft.ui.u0001148c,GPU,GPU,0,0,0,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,481,CPU (secours),brickcraft.ui.u2fdca041,CPU (fallback),CPU (secours),0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,492,Editeur libre : conserve les,brickcraft.ui.uadbd4ddd,Editeur free : conserve les,Editeur libre : conserve les,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,492,positions et rotations exactes.,brickcraft.ui.udbaa70c7,exact positions and rotations.,positions et rotations exactes.,0,0,0,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,499,Clic droit : orbite | Molette : zoom | Milieu : deplacer,brickcraft.ui.u09a72666,Right-click: orbit | Wheel: zoom | Middle: pan,Clic droit : orbite | Molette : zoom | Milieu : déplacer,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,509,Choisis un fichier dans Projet puis Analyser,brickcraft.ui.u5abb0f43,"Choose a file in Project, then Analyze","Choisis un fichier dans Projet, puis Analyser",0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,518,Atelier vide : ajoute une piece,brickcraft.ui.u028a9da8,Empty Studio: add a part,Atelier vide : ajoute une piece,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,578,XYZ,brickcraft.ui.u00015579,XYZ,XYZ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,582,ROTATION,brickcraft.ui.u2c3eff7e,ROTATION,ROTATION,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,582,DEPLACEMENT,brickcraft.ui.u75811b64,MOVE,DÉPLACEMENT,0,0,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,582, | #,brickcraft.ui.u0010615f,,,1,1,1,0
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,731,Detail : ,brickcraft.ui.u01d65935,Detail : ,Detail : ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,731, formes / ,brickcraft.ui.uf55f7c1f, formes / , formes / ,0,0,1,1
+src/main/java/fr/brickcraft/client/ProjectImportScreen.java,859, origines de pieces (mode rapide),brickcraft.ui.ue7414803, origines de parts (mode rapide), origines de pieces (mode rapide),0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,26,Clic gauche dans l'apercu : selectionner | Maj+clic : choix superpose.,brickcraft.ui.ua3324e7f,Left click preview: select | Shift-click: cycle overlapping parts.,Clic gauche dans l'apercu : selectionner | Maj+clic : choix superpose.,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,34,BrickCraft - Placement libre,brickcraft.ui.u27c26d09,BrickCraft - Free Editor,BrickCraft - Éditeur libre,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,63,< Piece,brickcraft.ui.ua12991ea,< Part,< Piece,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,64,Piece >,brickcraft.ui.u40dd236c,Part >,Piece >,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,66,Aller,brickcraft.ui.u03c6b1ee,Go,Aller,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,73,Pas pos.,brickcraft.ui.u47cf5138,Move step,Pas déplacement,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,77,Pas rot.,brickcraft.ui.u47d03a15,Rotation step,Pas rotation,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,90,Appliquer,brickcraft.ui.ufae5e60f,Apply,Appliquer,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,91,Rotation 0,brickcraft.ui.u7265082e,Reset rotation,Rotation à 0,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,91,Rotation initialisee,brickcraft.ui.ubd7f2f0c,Rotation initialisee,Rotation initialisee,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,92,Ajouter,brickcraft.ui.u29a9ddd2,Add,Ajouter,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,93,Dupliquer,brickcraft.ui.ubf19136d,Duplicate,Dupliquer,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,93,Piece dupliquee,brickcraft.ui.u5afd08ae,Part duplicated,Piece dupliquee,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,94,Supprimer,brickcraft.ui.u766a0981,Delete,Supprimer,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,94,Piece supprimee,brickcraft.ui.u124dfec2,Part supprimee,Piece supprimee,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,96,Annuler,brickcraft.ui.u306f0ac5,Cancel,Annuler,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,96,Annulation,brickcraft.ui.u49e065dd,Undo,Annulation,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,97,Retablir,brickcraft.ui.uf06cfef3,Redo,Retablir,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,97,Retablissement,brickcraft.ui.u93a6a2a4,Redo,Retablissement,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,98,Mode: bouger,brickcraft.ui.u9ea1a9f5,Mode: move,Mode : déplacer,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,107,Mode: tourner,brickcraft.ui.uedc8dffa,Mode: rotate,Mode : rotation,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,107,Mode: bouger,brickcraft.ui.u9ea1a9f5,Mode: move,Mode : déplacer,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,108,Poignees : rotation autour de l'axe choisi (R).,brickcraft.ui.ub2bf80c4,Handles: rotate around the selected axis (R).,Poignees : rotation autour de l'axe choisi (R).,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,108,Poignees : deplacement sur l'axe choisi (G).,brickcraft.ui.ufb5c5032,Handles: move along the selected axis (G).,Poignees : deplacement sur l'axe choisi (G).,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,126,Aucune piece. Utilise Ajouter.,brickcraft.ui.u6cd185c0,No parts. Use Add.,Aucune piece. Utilise Ajouter.,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,131,Numero invalide : 1 a ,brickcraft.ui.ue5688d82,Numero invalid : 1 a ,Numero invalide : 1 a ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,139,Aucune piece : utilise Ajouter,brickcraft.ui.u20987230,No part : utilise Ajouter,Aucune piece : utilise Ajouter,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,141,Champs invalides : ,brickcraft.ui.u0114a3ad,Champs invalides : ,Champs invalides : ,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,145,Ajout refuse : ,brickcraft.ui.u2a90b6b7,Ajout rejected : ,Ajout refuse : ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,150,Deplacement refuse : ,brickcraft.ui.u5b621cf6,Movement rejected : ,Deplacement refuse : ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,155,Rotation refusee : ,brickcraft.ui.u74d13497,Rotation refusee : ,Rotation refusee : ,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,158,Aucune modification possible,brickcraft.ui.u0ee49392,No modification possible,Aucune modification possible,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,160, | ,brickcraft.ui.u00008744,,,1,1,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,160, pieces,brickcraft.ui.u61dd3b65, parts, pieces,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,163,Ajoute au moins une piece avant de sauver,brickcraft.ui.uf3a6bde7,Add at least one part before saving,Ajoute au moins une piece avant de sauver,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,173,Sauvegarde : ,brickcraft.ui.u0337f603,Saved: ,Sauvegarde : ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,173, (source conservee),brickcraft.ui.uda20ce0e, (source conservee), (source conservee),0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,175,Erreur de sauvegarde : ,brickcraft.ui.u22d10027,Error de save : ,Erreur de sauvegarde : ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,214,Pas de deplacement/rotation invalide,brickcraft.ui.u5a8aa664,Pas de movement/rotation invalid,Pas de deplacement/rotation invalide,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,221,Glisse la poignee ,brickcraft.ui.uf94c395b,Glisse la poignee ,Glisse la poignee ,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,227,Piece ,brickcraft.ui.u8e7abf12,Part ,Piece ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,227, / ,brickcraft.ui.u00007df1,,,1,1,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,227, : ,brickcraft.ui.u00007f46,,,1,1,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,228,Aucune piece sous le curseur,brickcraft.ui.ub6afcbd9,No part under cursor,Aucune pièce sous le curseur,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,245,Rotation ,brickcraft.ui.u2cfb0042,Rotation ,Rotation ,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,245,Deplacement ,brickcraft.ui.uba4ebd3c,Movement ,Deplacement ,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,245, : ,brickcraft.ui.u00007f46,,,1,1,1,0
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,248,Manipulation interrompue : ,brickcraft.ui.u9329a37d,Manipulation interrompue : ,Manipulation interrompue : ,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseFreeScreen.java,279,Apercu GPU/CPU bascule (touche O),brickcraft.ui.ucf16c25a,Switch GPU/CPU preview (O),Apercu GPU/CPU bascule (touche O),0,0,0,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,24,"Selectionne un equivalent, puis confirme. Les variantes peuvent etre differentes.",brickcraft.ui.ubfa425a7,"Select un equivalent, puis confirme. Les variantes peuvent etre differentes.","Selectionne un equivalent, puis confirme. Les variantes peuvent etre differentes.",0,0,0,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,27,BrickCraft - Remplacer une piece,brickcraft.ui.ud2e48e4b,BrickCraft - Replace a part,BrickCraft - Remplacer une piece,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,42,Cible : ,brickcraft.ui.u8fb84c11,Cible : ,Cible : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,42, | Verifie la geometrie avant de confirmer.,brickcraft.ui.u54a49a72, | Check the geometry before confirming., | Verifie la geometrie avant de confirmer.,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,46,La reference source et la cible sont identiques.,brickcraft.ui.u3e8a6e6f,La reference source et la cible sont identiques.,La reference source et la cible sont identiques.,0,0,0,1
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,48,Reference non installee : ,brickcraft.ui.u3a14e8b3,Reference not installed: ,Reference non installee : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,48,. Recharge LDraw ou saisis un ID existant.,brickcraft.ui.u0fd01465,. Reload LDraw or enter an existing ID.,. Recharge LDraw ou saisis un ID existant.,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,51,Cette reference n'a aucune geometrie LDraw utilisable : ,brickcraft.ui.uf882f21a,This reference has no usable LDraw geometry: ,Cette reference n'a aucune geometrie LDraw utilisable : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,54,Remplacer ,brickcraft.ui.udbf0e37b,Remplacer ,Remplacer ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,54, par ,brickcraft.ui.u01f753bf, par , par ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,58,Aucune occurrence remplacee : retourne a la liste et actualise.,brickcraft.ui.u3677ea31,No occurrences replaced: return to list and refresh.,Aucune occurrence remplacee : retourne a la liste et actualise.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,70,Reference cible (.dat),brickcraft.ui.u6f5a3398,Reference cible (.dat),Reference cible (.dat),0,0,1,1
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,96,BRICKCRAFT / EQUIVALENTS LDRAW,brickcraft.ui.u18fa3307,BRICKCRAFT / EQUIVALENTS LDRAW,BRICKCRAFT / EQUIVALENTS LDRAW,0,0,0,1
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,97,  x,brickcraft.ui.u00007c78,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,97, | ,brickcraft.ui.u00008744,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,98,Cible :,brickcraft.ui.u9105f1ef,Cible :,Cible :,0,0,0,1
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,103, | ,brickcraft.ui.u00008744,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,105,Aucune variante proche trouvee : saisis un ID installe manuellement.,brickcraft.ui.u465b1eb7,No close variant found: enter an installed ID manually.,Aucune variante proche trouvee : saisis un ID installe manuellement.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,106,Suggestions : ,brickcraft.ui.uc122ba17,Suggestions : ,Suggestions : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickPartReplacementScreen.java,106, - variantes non garanties interchangeables,brickcraft.ui.u4c2bf8b8, - alternatives are not guaranteed interchangeable, - variantes non garanties interchangeables,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,21,BrickCraft - Taille et hitbox du joueur,brickcraft.ui.uf91ae607,BrickCraft - Player size and hitbox,BrickCraft - Taille et hitbox du joueur,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,34,Taille x,brickcraft.ui.uda708801,Size ×,Taille x,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,34, | hitbox ,brickcraft.ui.u8dbf5204, | hitbox , | hitbox ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,34, x ,brickcraft.ui.u000086c8,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,34, blocs,brickcraft.ui.u3c32d875, blocks, blocs,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,45,Appliquer : taille + hitbox,brickcraft.ui.uf7a01fad,Apply: size + hitbox,Appliquer : taille + hitbox,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,51,Retour,brickcraft.ui.u91b3132b,Back,Retour,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,58,BRICKCRAFT / EXPLORATION LEGO,brickcraft.ui.ud7927f30,BRICKCRAFT / LEGO EXPLORATION,BRICKCRAFT / EXPLORATION LEGO,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,59,Rejoins la taille d'une figurine ou domine les constructions,brickcraft.ui.u7564e180,Become minifigure-sized or tower above your builds,Rejoins la taille d'une figurine ou domine les constructions,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,60,"x1 = joueur normal | x0,125 = minuscule | x4 = geant",brickcraft.ui.u19941bf5,×1 = normal | ×0.125 = tiny | ×4 = giant,"x1 = joueur normal | x0,125 = minuscule | x4 = geant",0,0,1,0
+src/main/java/fr/brickcraft/client/BrickPlayerScaleScreen.java,61,"La hauteur de la camera, la hitbox et les collisions sont synchronisees.",brickcraft.ui.u05485f3c,"Camera height, hitbox and collisions are synchronized.","La hauteur de la camera, la hitbox et les collisions sont synchronisees.",0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,16,BrickCraft - Capacites des grands sets,brickcraft.ui.u9303e2d5,BrickCraft - Large set limits,BrickCraft - Capacites des grands sets,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,21,SANS LIMITE CHOISIE,brickcraft.ui.ud1e72867,NO SELECTED LIMIT,SANS LIMITE CHOISIE,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,21,"%,d",brickcraft.ui.u0000909d,,,1,1,0,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,34,Enregistrer,brickcraft.ui.u1ddc9ec0,Save,Enregistrer,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,38,Annuler,brickcraft.ui.u306f0ac5,Cancel,Annuler,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,44,BRICKCRAFT / CAPACITES,brickcraft.ui.u60a0519b,BRICKCRAFT / CAPACITY,BRICKCRAFT / CAPACITÉS,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,45,Nombre de pieces par projection,brickcraft.ui.u93765b61,Number of parts per projection,Nombre de pièces par projection,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,46,Cellules de collisions precises (1 bloc = 8x8x8),brickcraft.ui.u13be370e,Precise collision cells (1 block = 8x8x8),Cellules de collisions precises (1 bloc = 8x8x8),0,0,1,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,47,"Droite : sans plafond choisi, mais securites techniques conservees.",brickcraft.ui.u057f53ec,Right end: no selected cap; technical safety limits still apply.,"Droite : sans plafond choisi, mais securites techniques conservees.",0,0,1,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,48,Limites techniques : 250 000 pieces / 400 000 cellules / 20 M triangles,brickcraft.ui.uf60093c7,"Technical limits: 250,000 parts / 400,000 cells / 20M triangles",Limites techniques : 250 000 pieces / 400 000 cellules / 20 M triangles,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickCapacityScreen.java,49,Attention : beaucoup de collisions peut ralentir le serveur et grossir la sauvegarde.,brickcraft.ui.u4ec94ac0,Warning: many collisions may slow the server and increase save size.,Attention : beaucoup de collisions peut ralentir le serveur et grossir la sauvegarde.,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGuideBookScreen.java,82, / ,brickcraft.ui.u00007df1,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,15,BrickCraft - Qualite geometrie,brickcraft.ui.u0fe22eda,BrickCraft - Mesh quality,BrickCraft - Qualite geometrie,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,27,Appliquer et reconstruire les lots GPU,brickcraft.ui.ufdb410cb,Apply and rebuild GPU batches,Appliquer et reconstruire les lots GPU,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,34,BrickCraft : sauvegarde qualite impossible : ,brickcraft.ui.u2509fc66,BrickCraft: could not save quality: ,BrickCraft : sauvegarde qualite impossible : ,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,37,Recalculer l'eclairage des LEGO,brickcraft.ui.u6141a1db,Recalculate LEGO lighting,Recalculer l'eclairage des LEGO,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,40,BrickCraft : eclairage actualise progressivement.,brickcraft.ui.u8f1f901c,BrickCraft: lighting refresh in progress.,BrickCraft : éclairage actualisé progressivement.,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,43,Capacites / grands sets,brickcraft.ui.uaa3cc706,Large set limits,Capacites / grands sets,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,45,Annuler,brickcraft.ui.u306f0ac5,Cancel,Annuler,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,51,BRICKCRAFT / DETAIL 3D,brickcraft.ui.u685785ce,BRICKCRAFT / 3D DETAIL,BRICKCRAFT / DÉTAIL 3D,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,53,0% = maillage tres simplifie | 100% = triangles LDraw originaux,brickcraft.ui.u425620ae,0% = heavily simplified mesh | 100% = original LDraw triangles,0% = maillage tres simplifie | 100% = triangles LDraw originaux,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickGpuQualityScreen.java,55,Les tenons retrouvent leurs courbes a 100% (cout GPU plus eleve).,brickcraft.ui.u0c4341ad,Studs become rounder at 100% (higher GPU cost).,Les tenons retrouvent leurs courbes a 100% (cout GPU plus eleve).,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,213,BrickCraft : projection VISIBLE,brickcraft.ui.u8fdc0c28,BrickCraft: projection VISIBLE,BrickCraft : projection VISIBLE,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,219,"BrickCraft : LEGACY, lent mais reference",brickcraft.ui.uf8945dc6,"BrickCraft: LEGACY, slow but reference mode","BrickCraft : LEGACY, lent mais mode de référence",0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,219,"BrickCraft : GPU, lots persistants",brickcraft.ui.udc943c5b,BrickCraft: GPU with persistent batches,"BrickCraft : GPU, lots persistants",0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,222,BrickCraft : ,brickcraft.ui.ud77f9467,BrickCraft : ,BrickCraft : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,224,BrickCraft : ,brickcraft.ui.ud77f9467,BrickCraft : ,BrickCraft : ,0,0,1,1
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,227,BrickCraft : inspecteur active (I pour masquer),brickcraft.ui.u10527a0d,BrickCraft: inspector enabled (I to hide),BrickCraft : inspecteur activé (I pour masquer),0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,258,BrickCraft : rotation reinitialisee,brickcraft.ui.ubc943c80,BrickCraft: rotation reset,BrickCraft : rotation réinitialisée,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,307,N: catalogue | I: inspecteur | G: pas | H: reset,brickcraft.ui.u643324fa,N: catalog | I: inspect | G: step | H: reset,N : catalogue | I : inspecteur | G : pas | H : réinit.,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,350,BRICKCRAFT  /  INSPECTEUR,brickcraft.ui.uaf85087e,BRICKCRAFT / INSPECTOR,BRICKCRAFT / INSPECTEUR,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,352,Vise une piece BrickCraft,brickcraft.ui.uf3eec480,Aim at a BrickCraft part,Vise une pièce BrickCraft,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,353,I : masquer,brickcraft.ui.uc422deb3,I: hide,I : masquer,0,0,1,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,367, X=,brickcraft.ui.u00008305,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,367, Z=,brickcraft.ui.u00008343,,,1,1,1,0
+src/main/java/fr/brickcraft/client/BrickCraftClient.java,370,I : masquer,brickcraft.ui.uc422deb3,I: hide,I : masquer,0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,45,Clic gauche : choisir une piece LEGO. F4 : quitter.,brickcraft.ui.ud2eb3e14,Left-click: select a LEGO part. F4: exit.,Clic gauche : choisir une pièce LEGO. F4 : quitter.,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,46,BrickCraft : edition en monde ACTIVE,brickcraft.ui.uecccad67,BrickCraft: world editing ENABLED,BrickCraft : édition en monde ACTIVÉE,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,46,BrickCraft : edition en monde DESACTIVEE,brickcraft.ui.u093593ae,BrickCraft: world editing DISABLED,BrickCraft : édition en monde DÉSACTIVÉE,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,73,Aucune piece sous le viseur (portee : 12 blocs).,brickcraft.ui.u6562b0c0,No part in sight (12-block reach).,Aucune pièce visée (portée : 12 blocs).,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,93,Aimant ON : les deplacements essaient un tenon compatible.,brickcraft.ui.u023c594f,Snap ON: movement tries compatible studs.,Aimant activé : recherche de tenons compatibles.,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,106,"Rotation : choisis X/Y/Z, puis molette.",brickcraft.ui.uec0fc2de,"Rotation: choose X/Y/Z, then wheel.","Rotation : choisis X/Y/Z, puis utilise la molette.",0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,106,"Deplacement : choisis X/Y/Z, puis molette.",brickcraft.ui.u04860e58,"Movement: choose X/Y/Z, then use the wheel.","Déplacement : choisis X/Y/Z, puis utilise la molette.",0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,111,XYZ,brickcraft.ui.u00015579,XYZ,XYZ,0,0,0,1
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,122,Selectionne d'abord une piece (clic gauche).,brickcraft.ui.uf1c4e565,Select a part first (left-click).,Sélectionne d’abord une pièce (clic gauche).,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,123,Mode Creatif requis pour modifier le monde.,brickcraft.ui.u342a267b,Creative mode required for world editing.,Mode Créatif nécessaire pour modifier le monde.,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,126,recherche d'attache...,brickcraft.ui.u5e82ae36,searching for connections...,recherche de connexion...,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,129,XYZ,brickcraft.ui.u00015579,XYZ,XYZ,0,0,0,1
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,147,VISIBLES,brickcraft.ui.u8d120e41,VISIBLE,VISIBLES,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,147,MASQUES,brickcraft.ui.u5ce28b91,HIDDEN,MASQUÉS,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,170,Glissement annule (aucune modification).,brickcraft.ui.u0f21fd8e,Drag cancelled (no changes).,Glissement annulé (aucune modification).,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,186,Poignee ,brickcraft.ui.u1f3d8d4f,Poignee ,Poignee ,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,186,XYZ,brickcraft.ui.u00015579,XYZ,XYZ,0,0,1,1
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,186," : maintiens et glisse, relache pour enregistrer.",brickcraft.ui.uc8e8d8ae," : maintiens et glisse, relache for enregistrer."," : maintiens et glisse, relache pour enregistrer.",0,0,1,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,214,ROTATION,brickcraft.ui.u2c3eff7e,ROTATION,ROTATION,0,0,0,1
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,214,DEPLACEMENT,brickcraft.ui.u75811b64,MOVE,DÉPLACEMENT,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,214,XYZ,brickcraft.ui.u00015579,XYZ,XYZ,0,0,0,1
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,216,Clic : selection | Poignees : glisser | G/R : mode | X/Y/Z : axe,brickcraft.ui.u7180b64c,Click: select | Handles: drag | G/R: mode | X/Y/Z: axis,Clic : sélectionner | Poignées : glisser | G/R : mode | X/Y/Z : axe,0,0,0,0
+src/main/java/fr/brickcraft/client/PreciseWorldEditor.java,219,Molette : avancer | K : tenons | N : aimant | B : connecter,brickcraft.ui.u36a155a9,Wheel: step | K: studs | N: snap | B: connect,Molette : pas | K : tenons | N : aimant | B : connecter,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickConfirmScreen.java,18,Confirmer,brickcraft.ui.u4784634d,Confirm,Confirmer,0,0,0,0
+src/main/java/fr/brickcraft/client/BrickConfirmScreen.java,20,Annuler,brickcraft.ui.u306f0ac5,Cancel,Annuler,0,0,0,0
+src/main/java/fr/brickcraft/world/StudioExportManager.java,296,BrickCraft : ,brickcraft.ui.ud77f9467,BrickCraft : ,BrickCraft : ,0,0,1,1
+src/main/java/fr/brickcraft/world/PrecisePhysicsManager.java,28,BrickCraft physique : ,brickcraft.ui.u3b99a71b,BrickCraft physics: ,Physique BrickCraft : ,0,0,1,0
+src/main/java/fr/brickcraft/world/PreciseWorldEditManager.java,26,BrickCraft : ,brickcraft.ui.ud77f9467,BrickCraft : ,BrickCraft : ,0,0,1,1
+src/main/java/fr/brickcraft/world/PreciseWorldEditManager.java,104,BrickCraft : connecte piece #,brickcraft.ui.u04edc773,BrickCraft: connected part #,BrickCraft : pièce connectée n° ,0,0,1,0
+src/main/java/fr/brickcraft/world/PlayerScaleManager.java,80,%.3f,brickcraft.ui.u001184fc,,,1,1,0,0
+src/main/java/fr/brickcraft/world/PreciseExportManager.java,126,BrickCraft : ,brickcraft.ui.ud77f9467,BrickCraft : ,BrickCraft : ,0,0,1,1

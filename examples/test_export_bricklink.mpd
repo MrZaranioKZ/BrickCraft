@@ -1,0 +1,8 @@
+0 FILE sample.ldr
+0 BrickCraft test model for future Studio imports
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 3004.dat
+1 14 40 0 0 1 0 0 0 1 0 0 0 1 group.ldr
+0 FILE group.ldr
+0 Subassembly
+1 16 0 -24 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 16 0 -8 0 1 0 0 0 1 0 0 0 1 3005.dat

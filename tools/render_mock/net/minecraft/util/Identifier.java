@@ -1,0 +1,1 @@
+package net.minecraft.util;public record Identifier(String ns,String path){public static Identifier of(String ns,String path){return new Identifier(ns,path);}}

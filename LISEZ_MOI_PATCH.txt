@@ -1,0 +1,1 @@
+Patch compatible avec le projet BrickCraft V0.7.0. Decompresse ce ZIP a la racine du projet (fichier build.gradle) et accepte le remplacement. Teste avec TESTER_DISTANCE_WINDOWS.bat, puis CONSTRUIRE_WINDOWS.bat. Le JAR sera en 0.7.1. Aucune modification des mondes. Ce patch ne doit pas etre applique a la V0.6.2.

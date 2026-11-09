@@ -1,0 +1,88 @@
+{
+  "java_files": 107,
+  "occurrences": 471,
+  "unique_literals": 417,
+  "missing_en_occurrences": 38,
+  "missing_fr_occurrences": 38,
+  "dynamic_candidates": 259,
+  "locales": {
+    "ar_sa": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 755,
+      "identical_fraction": 0.858
+    },
+    "de_de": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 754,
+      "identical_fraction": 0.857
+    },
+    "en_us": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 880,
+      "identical_fraction": 1.0
+    },
+    "es_es": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 754,
+      "identical_fraction": 0.857
+    },
+    "fr_fr": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 183,
+      "identical_fraction": 0.208
+    },
+    "hi_in": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 755,
+      "identical_fraction": 0.858
+    },
+    "ja_jp": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 755,
+      "identical_fraction": 0.858
+    },
+    "pt_br": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 756,
+      "identical_fraction": 0.859
+    },
+    "ru_ru": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 755,
+      "identical_fraction": 0.858
+    },
+    "zh_cn": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 756,
+      "identical_fraction": 0.859
+    },
+    "zh_tw": {
+      "total_keys": 880,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 758,
+      "identical_fraction": 0.861
+    }
+  },
+  "scope": "Static heuristics only; cannot certify every runtime-composed string."
+}

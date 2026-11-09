@@ -1,0 +1,1 @@
+package net.minecraft.client.render.block.entity; public interface BlockEntityRendererFactory { public class Context {} }

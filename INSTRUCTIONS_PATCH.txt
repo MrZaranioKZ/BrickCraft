@@ -1,0 +1,11 @@
+BrickCraft V0.6.2 - Patch crash "Not building!"
+
+1. Ferme Minecraft.
+2. Fais une copie de run\saves et de ton projet BrickCraft.
+3. Ouvre le dossier de ton projet ACTUEL (celui qui contient build.gradle).
+4. Extrais les fichiers de ce ZIP directement DANS ce dossier en conservant l'arborescence ; accepte de remplacer les anciens fichiers.
+5. Optionnel : TESTER_RENDERER_WINDOWS.bat (tests simules uniquement).
+6. Relance CONSTRUIRE_WINDOWS.bat, puis LANCER_CLIENT_TEST.bat.
+
+Le monde et les fichiers bcp ne sont pas modifies par ce patch.
+Ne supprime pas config\brickcraft\complete.zip.

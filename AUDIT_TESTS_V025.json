@@ -1,0 +1,57 @@
+{
+  "guidebook_layout": {
+    "status": "PASS",
+    "seconds": 0.54,
+    "details": "PASS: 49 guide layouts across window sizes and GUI scales\n"
+  },
+  "ui_gpu": {
+    "status": "PASS",
+    "seconds": 0.51,
+    "details": "OK : UI responsive et budget CPU V0.14 (120+ cas)\n"
+  },
+  "pbr_profiles": {
+    "status": "PASS",
+    "seconds": 0.46,
+    "details": "OK: 10 LabPBR material slots and UVs\n"
+  },
+  "commands_coordinates": {
+    "status": "PASS",
+    "seconds": 0.48,
+    "details": "BrickCraft V0.20: 8 RGB checks + 8 coordinate tests OK\n"
+  },
+  "physics": {
+    "status": "PASS",
+    "seconds": 0.95,
+    "details": "Physique V0.12 : cube plein, cavite ouverte, pente, rotation = OK\nPhysique V0.13 : portes, parois ouvertes, ancre, marche auto = OK\n"
+  },
+  "replacements": {
+    "status": "PASS",
+    "seconds": 0.85,
+    "details": "OK : variantes 4079b, 4497b, 57029c01 et filtrage prudent\nOK : 4 remplacements manuels, positions, couleurs, rotations, historique et BCPX\n"
+  },
+  "missing_removal": {
+    "status": "PASS",
+    "seconds": 0.84,
+    "details": "OK: delete reference, delete all, empty model, unchanged originals, geometry and BCPX\n"
+  },
+  "big_sets": {
+    "status": "PASS",
+    "seconds": 1.53,
+    "details": "OK 32768-part model and compressed save: 107947 bytes\nOK custom part and named HTML/CSV missing-parts reports\nOK .io embedded .dat importer and names\nOK incremental physics preparation\n"
+  },
+  "studio_assembly": {
+    "status": "PASS",
+    "seconds": 0.91,
+    "details": "LARGE WORKSPACE: 33 tests OK\n"
+  },
+  "studio_io": {
+    "status": "PASS",
+    "seconds": 1.73,
+    "details": "OK : 12000 pieces, ZIP non chiffre, BCPX, notices\nOK : projection 16385 pieces, GZIP NBT, plafond 250000\nOK : 0 projets supplementaires analyses.\n"
+  },
+  "directories": {
+    "status": "PASS",
+    "seconds": 0.52,
+    "details": "OK: BrickCraft config and imports directories\n"
+  }
+}

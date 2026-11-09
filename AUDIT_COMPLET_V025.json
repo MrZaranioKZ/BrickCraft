@@ -1,0 +1,139 @@
+{
+  "type": "static audit, not a Minecraft runtime or FPS certification",
+  "version": "0.25.1-rc2",
+  "java_sources": 107,
+  "screen_classes": 13,
+  "ui_button_source_occurrences": 154,
+  "resource_json": 46,
+  "png_assets": 32,
+  "item_models_expected": 29,
+  "item_models_missing": [],
+  "item_textures_missing": [],
+  "non_custom_item_texture_refs": [],
+  "pbr_material_atlas": {
+    "lego_materials": [
+      160,
+      16
+    ],
+    "lego_materials_n": [
+      160,
+      16
+    ],
+    "lego_materials_s": [
+      160,
+      16
+    ]
+  },
+  "language_files": 11,
+  "locales": {
+    "ar_sa": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 844,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "de_de": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 843,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "en_us": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 969,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "es_es": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 843,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "fr_fr": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 184,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "hi_in": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 844,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "ja_jp": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 844,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "pt_br": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 845,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "ru_ru": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 844,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "zh_cn": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 845,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    },
+    "zh_tw": {
+      "keys": 969,
+      "missing_keys": 0,
+      "extra_keys": 0,
+      "same_as_english": 847,
+      "placeholder_mismatch_count": 0,
+      "placeholder_mismatch_sample": []
+    }
+  },
+  "text_literal_occurrences_java": 73,
+  "ui_related_lines_estimate": 435,
+  "dynamic_text_candidates_estimate": 62,
+  "checks": {
+    "no_duplicate_studio_rotate_footer": true,
+    "studio_undo_controls_dynamic": true,
+    "project_actions_disabled_without_selection": true,
+    "responsive_project_list": true,
+    "project_refresh_keeps_selected_file": true,
+    "guide_actions_disabled_without_project": true,
+    "old_io_file_cap_removed": true,
+    "old_corrected_filename_removed": true,
+    "grid_import_checks_compatibility": true,
+    "advanced_GPU_debug_is_optin": true,
+    "builder_and_ldraw_items_distinct": true,
+    "workspace_directories_created": true,
+    "server_rechecks_export_permissions": true,
+    "physics_is_prepared_progressively": true
+  },
+  "blocking_static_findings": [],
+  "regression_summary_path": "AUDIT_TESTS_V025.json"
+}

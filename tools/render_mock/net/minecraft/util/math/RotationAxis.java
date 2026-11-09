@@ -1,0 +1,1 @@
+package net.minecraft.util.math;public class RotationAxis {public static final RotationAxis NEGATIVE_Y=new RotationAxis(),POSITIVE_X=new RotationAxis(),POSITIVE_Z=new RotationAxis(); public Object rotationDegrees(int angle){return new Object();}}
