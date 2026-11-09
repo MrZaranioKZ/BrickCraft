@@ -2,8 +2,17 @@
 setlocal
 cd /d "%~dp0"
 echo BrickCraft V0.25.2 RC3 - Corrections et audit Codex
-where py >nul 2>nul
-if %errorlevel%==0 (set "PY=py -3") else (set "PY=python")
+py -3 -c "import sys; sys.exit(sys.version_info < (3, 8))" >nul 2>nul
+if errorlevel 1 (
+  python -c "import sys; sys.exit(sys.version_info < (3, 8))" >nul 2>nul
+  if errorlevel 1 (
+    echo Python 3.8 ou plus recent est requis.
+    goto :failed
+  )
+  set "PY=python"
+) else (
+  set "PY=py -3"
+)
 %PY% tools\TEST_JAVA_SYNTAX_V0251.py || goto :failed
 %PY% tools\TEST_UI_LOCALISATION_V0251.py || goto :failed
 %PY% tools\TEST_CORRECTIFS_V0252.py || goto :failed

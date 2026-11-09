@@ -1,0 +1,8 @@
+.gradle/
+.local-gradle/
+build/
+run/
+.idea/
+*.iml
+out/
+validation/

@@ -1,0 +1,51 @@
+name: BrickCraft validation
+
+on:
+  push:
+    branches: [BrickCraft_V0.1]
+  pull_request:
+    branches: [BrickCraft_V0.1]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify Gradle Wrapper
+        run: echo '2db75c40782f5e8ba1fc278a5574bab070adccb2d21ca5a6e5ed840888448046  gradle/wrapper/gradle-wrapper.jar' | sha256sum --check
+      - name: Compile and test
+        shell: bash
+        run: |
+          mkdir -p validation
+          ./gradlew --no-daemon clean build test 2>&1 | tee validation/build.log
+          python tools/VERIFY_RELEASE_JAR.py | tee validation/jar.log
+      - name: Run audits and regression tests
+        if: success() || failure()
+        shell: bash
+        run: |
+          mkdir -p validation
+          for script in TEST_JAVA_SYNTAX_V0251 TEST_UI_LOCALISATION_V0251 TEST_CORRECTIFS_V0252 AUDIT_I18N_LAYOUT_V0252 AUDIT_RUN_TESTS_V025; do
+            python "tools/$script.py" 2>&1 | tee "validation/$script.log" || failed=1
+          done
+          exit "${failed:-0}"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: brickcraft-validation
+          path: |
+            validation/
+            build/libs/*.jar
+            AUDIT_I18N_RESTANT_V0252.*
+            AUDIT_TESTS_V025.json
