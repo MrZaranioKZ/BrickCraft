@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "brickcraft:block/precise_display"
+    }
+  }
+}

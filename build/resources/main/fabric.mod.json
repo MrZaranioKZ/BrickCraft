@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "brickcraft",
+  "version": "0.25.2-rc3",
+  "name": "BrickCraft — Atelier de briques",
+  "description": "Construction de briques LEGO, Studio 3D, import LDraw/BrickLink, notices et projections de grands modèles.",
+  "authors": ["BrickCraft project"],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["fr.brickcraft.BrickCraft"],
+    "client": ["fr.brickcraft.client.BrickCraftClient"]
+  },
+  "mixins": ["brickcraft.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
